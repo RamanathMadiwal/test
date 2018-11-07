@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "0.1.0",
-  "homepage":"https://github.com/RamanathMadiwal/test",
+  "homepage":"https://ramanathmadiwal.github.io/test/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.1",
